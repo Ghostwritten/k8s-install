@@ -1,4 +1,4 @@
-# kubespray v2.21.0 部署 kubernetes v2.24.0 集群
+# kubespray v2.21.0 部署 kubernetes v1.24.0 集群
 
 
 ## 1.  前言

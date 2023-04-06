@@ -4,4 +4,4 @@
 
 ## kubespray
 
-- [kubespray v2.21.0 部署 kubernetes v2.24.0 集群](kubespray-2.21.0/README.md) 
+- [kubespray v2.21.0 部署 kubernetes v1.24.0 集群](kubespray-2.21.0/README.md) 
