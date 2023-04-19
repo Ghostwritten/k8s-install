@@ -1,5 +1,5 @@
+# Kubespray v2.21.0 离线部署 Kubernetes v1.25.6 集群
 
-@[toc]
 ## 1. 前言
 
 [Kubespray](https://kubespray.io/#/) 是 Kubernetes incubator 中的项目，目标是提供 Production Ready Kubernetes 部署方案，该项目基础是通过 Ansible Playbook 来定义系统与 Kubernetes 集群部署的任务，具有以下几个特点：

@@ -15,8 +15,8 @@
 
 ## kind
 
-- [kind](https://kind.sigs.k8s.io/)...
+- [kind](https://kind.sigs.k8s.io/)
 
 ## k3s
 
-- [k3s](https://k3s.io/)...
+- [k3s](https://k3s.io/)
